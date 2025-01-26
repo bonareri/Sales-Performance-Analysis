@@ -1,7 +1,5 @@
 # 📊 Analyzing Retail Sales Performance: Insights from Comprehensive Transaction Data 📈
 
-Hello Everyone 👋,
-
 This project analyzes retail sales performance using a dataset of store sales transactions. It uncovers insights into customer purchasing behaviors, sales trends, and product performance across various branches, providing valuable information to optimize retail strategies and identify growth opportunities.
 
 ## 🔍 Dataset Features:
